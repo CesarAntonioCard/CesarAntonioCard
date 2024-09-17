@@ -4,8 +4,13 @@ Soy un desarrollador frontend y backend junior de&nbsp; <img src="https://github
 <p/>
 Para el frontend, puedo crear aplicaciones en React / Angular / Astro / HTML. Para mejorar los diseños puedo usar MUI, Boostrap, CSS
 <p/>
-* Mi correo electronico es cesarcardozobriceno@gmail.com </p>
-* Estaria encantando de apoyar en cualquier tipo de proyecto. </p>
+  
+**Contacto:**  
+- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 973 944 957  
+- ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [cesarcardozobriceno@gmail.com](mailto:cesarcardozobriceno@gmail.com) 
+- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/CesarAntonioCard](https://github.com/CesarAntonioCard) 
+- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
+---
 
 ## Habilidades
 
