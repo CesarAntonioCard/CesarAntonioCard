@@ -12,45 +12,74 @@ Para el frontend, puedo crear aplicaciones en React / Angular / Astro / HTML. Pa
 - ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/césar-antonio-cardozo-briceño-37458420a](https://www.linkedin.com/in/césar-antonio-cardozo-briceño-37458420a)  
 ---
 
-## Habilidades
+## ![Habilidades](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) HABILIDADES
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f544ab45-fa81-44ca-a285-9cb335559647" height="40" alt="React" /><br>
-      <sub>React</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/38896a9d-f84e-40d1-a5ff-4a35a59e8a4e" height="40" alt="Angular" /><br>
-      <sub>Angular</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/508c4a0b-8d3d-40a5-bc47-6b827eae6a95" height="40" alt="Astro" /><br>
-      <sub>Astro</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/4ac2b112-d31b-4b41-b92d-fefbbbd3840a" height="40" alt="HTML5" /><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/026d2d3f-9a51-471d-b928-983ded6ce38b" height="40" alt="Bootstrap" /><br>
-      <sub>Bootstrap</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/95c33a38-9098-4c55-95cc-6b1cdced26c5" height="40" alt="MUI" /><br>
-      <sub>MUI</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/jhonatanhuaman76/jhonatanhuaman76/assets/132282558/0883e00c-681a-4f8a-a44f-805ef4fa7473" height="40" alt="CSS3" /><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c9b88138-3f2a-4f80-b508-ce73f699f4e0" height="40" alt="JavaScript" /><br>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/83b6b0fd-0d03-40ad-8f2a-b0605c805fb1" height="36" alt="NodejJs" /><br>
-      <sub>NodeJs</sub>
-    </td>
-  </tr>
+<tr>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/ios-filled/30/61CAE8/react-native.png" alt="React" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>React:</strong> Intermedio</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJS" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>NodeJS:</strong> Intermedio</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=UFXRpPFebwa2&format=png&color=000000" alt="MySql" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>MySQL:</strong> Intermedio</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=20909&format=png&color=000000" alt="HTML" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>HTML:</strong> Intermedio</p>
+  </td>
+</tr>
+<tr>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>SQL Server:</strong> Intermedio</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=38561&format=png&color=000000" alt="PostgreSQL" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>PostgreSQL:</strong> Intermedio</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=20906&format=png&color=000000" alt="Git" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>Git:</strong> Básico</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=21278&format=png&color=000000" alt="CSS" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>CSS:</strong> Intermedio</p>
+  </td>
+</tr>
+<tr>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=55205&format=png&color=860899" alt="C#" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>C#:</strong> Básico</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=13679&format=png&color=000000" alt="Java" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>Java:</strong> Básico</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=108784&format=png&color=000000" alt="JavaScript" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>JavaScript:</strong> Intermedio</p>
+  </td>
+    <td></td>
+</tr>
+<tr>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=ylXrZF2zxsFE&format=png&color=000000" alt="PHP" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>PHP:</strong> Básico</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=lckHFUP7nJhG&format=png&color=000000" alt="Astro" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>Astro:</strong> Básico</p>
+  </td>
+  <td style="padding-right: 20px;">
+    <img src="https://img.icons8.com/?size=30&id=71257&format=png&color=000000" alt="AngularJS" style="width: 30px; height: auto;">
+    <p style="font-size: 18px; margin: 0;"><strong>AngularJS:</strong> Básico</p>
+  </td>
+</tr>
 </table>
+
+---
