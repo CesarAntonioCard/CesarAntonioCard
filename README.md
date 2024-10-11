@@ -35,3 +35,9 @@ Soy estudiante de ingeniería de sistemas computacionales, actualmente a estoy a
   <img src="https://img.shields.io/badge/PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAntonioCard&langs_count=8&theme=material-palenight)](https://github.com/CesarAntonioCard)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CesarAntonioCard&theme=material-palenight)](https://github.com/CesarAntonioCard)
+</div>
